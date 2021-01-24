@@ -3,3 +3,5 @@ ipywidgets
 plotly
 pandas
 scipy
+keras
+scikit-learn
